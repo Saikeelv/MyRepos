@@ -1,3 +1,4 @@
 git remote add origin git@github.com:Saikeelv/MyRepos.git
 git branch -M main
 git push -u origin main
+git pull
